@@ -1,0 +1,8 @@
+{
+    "require": {
+        "ezyang/htmlpurifier":"dev-master",
+        "zendframework/zendframework":"dev-master",
+        "netroby/notes-utils":"dev-master"
+
+    }
+}
