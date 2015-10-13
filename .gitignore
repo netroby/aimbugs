@@ -6,3 +6,4 @@ vendor/*
 extras/documentation
 .idea/
 *.iml
+.env
