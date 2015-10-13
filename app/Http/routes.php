@@ -11,4 +11,6 @@
 |
 */
 
-$app->get('/', 'HomeController@index');
+$app->get('/', 'Home\IndexController@index');
+
+$app->get('/admin', 'Admin\IndexController@index');
